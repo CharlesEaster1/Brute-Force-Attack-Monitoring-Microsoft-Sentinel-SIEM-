@@ -31,7 +31,7 @@ Create New Resource Group:  <br/>
 <br />
 <br />
 Create Log Analytics Workspace: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/KcCYkPk"><img src="https://i.imgur.com/KcCYkPk.png" title="Create New Log Analytics Workspace" /></a>
 <br />
 <br />
 Confirm your selection:  <br/>
