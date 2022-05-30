@@ -23,7 +23,7 @@ This walkthrough shows the process of creating a virtual machine (VM), monitorin
 <p align="center">
 Create new VM:<br/>
 <a href="https://imgur.com/JV1FFVq"><img src="https://i.imgur.com/JV1FFVq.png" title="Create New Virtual Machine" /></a>
- <a href="https://imgur.com/gPKUO2q"><img src="https://i.imgur.com/gPKUO2q.png" title="VM Instance Details" /></a>
+<a href="https://imgur.com/gPKUO2q"><img src="https://i.imgur.com/gPKUO2q.png" title="VM Instance Details" /></a>
 <br />
 <br />
 Create New Resource Group:  <br/>
@@ -33,6 +33,7 @@ Create New Resource Group:  <br/>
 Create Log Analytics Workspace: <br/>
 This will be used to ingest and store windows event logs from the virtual machine. Custom logs will be created with this data.
 <a href="https://imgur.com/KcCYkPk"><img src="https://i.imgur.com/KcCYkPk.png" title="Create New Log Analytics Workspace" /></a>
+<a href="https://imgur.com/I0eNvRF"><img src="https://i.imgur.com/I0eNvRF.png" title="source: imgur.com" /></a>
 <br />
 <br />
 Confirm your selection:  <br/>
