@@ -11,7 +11,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 - <b>Resource Group</b>
 - <b>Log Analytics Workspace</b>
 - <b>Microsoft Defender for Cloud</b>
-- <b>Azure Sentinel (Sier</b>
+- <b>Azure Sentinel (Siem)</b>
 
 <h2>Environments Used </h2>
 
@@ -22,11 +22,11 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Create new VM:<br/>
-<a href="https://imgur.com/JV1FFVq"><img src="https://i.imgur.com/JV1FFVq.png" title="Create new virtual machine" /></a>
+<a href="https://imgur.com/JV1FFVq"><img src="https://i.imgur.com/JV1FFVq.png" title="Create New Virtual Machine" /></a>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create New Resource Group:  <br/>
+<a href="https://imgur.com/rdpXk2l"><img src="https://i.imgur.com/rdpXk2l.png" title="Create New Resource Group" /></a>
 <br />
 <br />
 Enter the number of passes: <br/>
