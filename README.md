@@ -23,13 +23,14 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <p align="center">
 Create new VM:<br/>
 <a href="https://imgur.com/JV1FFVq"><img src="https://i.imgur.com/JV1FFVq.png" title="Create New Virtual Machine" /></a>
+ <a href="https://imgur.com/gPKUO2q"><img src="https://i.imgur.com/gPKUO2q.png" title="VM Instance Details" /></a>
 <br />
 <br />
 Create New Resource Group:  <br/>
 <a href="https://imgur.com/rdpXk2l"><img src="https://i.imgur.com/rdpXk2l.png" title="Create New Resource Group" /></a>
 <br />
 <br />
-Enter the number of passes: <br/>
+Create Log Analytics Workspace: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
