@@ -31,7 +31,7 @@ Create New Resource Group:  <br/>
 <br />
 <br />
 Create Log Analytics Workspace: <br/>
-This will be used to ingest logs from the virtual machine.
+This will be used to ingest event logs from the virtual machine. This will be used to create custom logs.
 <a href="https://imgur.com/KcCYkPk"><img src="https://i.imgur.com/KcCYkPk.png" title="Create New Log Analytics Workspace" /></a>
 <br />
 <br />
