@@ -1,4 +1,4 @@
-<h1>Failed Rdp Logins Azure Sentinel</h1>
+<h1>Failed Rdp Logins Azure Sentinel (SIEM)</h1>
 
 <h2>Description</h2>
 This walkthrough shows the process of creating a virtual machine (VM), monitoring and collecting data for creating custom logs of failed login attempts, organizing the data so its readable, and displaying the data based on where the attackers lauched their attacks on my VM. Over 3000 events were accounted for in the final report.
