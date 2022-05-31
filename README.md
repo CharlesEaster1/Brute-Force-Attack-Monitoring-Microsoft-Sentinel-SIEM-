@@ -48,12 +48,12 @@ Turn servers on. Turn SQL servers on machines off:  <br/>
 Click on Data collections on the left side of the screen: <br/>
 Select all data
 Click save
-<a href="https://imgur.com/ZyrSw57"><img src="https://i.imgur.com/ZyrSw57.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/ZyrSw57"><img src="https://i.imgur.com/ZyrSw57.png" title="All Data" /></a>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+Go back to log analytics workspace to connect the workspace to the VM.
+Select the VM and click connect:  <br/>
+<a href="https://imgur.com/E2hTSLS"><img src="https://i.imgur.com/E2hTSLS.png" title="Reconnect Log Analytics Workspace" /></a>
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
