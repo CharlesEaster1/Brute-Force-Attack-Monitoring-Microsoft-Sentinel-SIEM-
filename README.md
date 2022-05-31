@@ -58,10 +58,10 @@ Connect:  <br/>
 <a href="https://imgur.com/rbLzrm4"><img src="https://i.imgur.com/rbLzrm4.png" title="Connect VM" /></a>
 </p>
 
-<h2>Set Up Azure Sentinel (SIEM)>
-- <b>Open Azure Portan in a 2nd tab portal.aszure.com</b> 
-- <b>Search for Azure Sentinel</b>
-- <b>Click create Microsoft Sentinel</b>
+<h2>Set Up Azure Sentinel (SIEM)</h2>
+<b>Open Azure Portan in a 2nd tab portal.aszure.com</b> 
+<b>Search for Azure Sentinel</b>
+<b>Click create Microsoft Sentinel</b>
 <a href="https://imgur.com/oW8iNwV"><img src="https://i.imgur.com/oW8iNwV.png" title="Create Microsoft Sentinel" /></a>
 <!--
  ```diff
