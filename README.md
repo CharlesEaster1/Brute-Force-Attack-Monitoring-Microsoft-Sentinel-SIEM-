@@ -45,7 +45,7 @@ Go to winddows defender for cloud to enable gathering logs for the VM to the Log
 <br />
 Turn servers on. Turn SQL servers on machines off:  <br/>
 <a href="https://imgur.com/ppOFQHd"><img src="https://i.imgur.com/ppOFQHd.png" title="Turn servers On" /></a>
-Click on Data collections on the left side of the screen: <br/>
+Click on Data collection on the left side of the screen: <br/>
 Select all data
 Click save
 <a href="https://imgur.com/ZyrSw57"><img src="https://i.imgur.com/ZyrSw57.png" title="All Data" /></a>
