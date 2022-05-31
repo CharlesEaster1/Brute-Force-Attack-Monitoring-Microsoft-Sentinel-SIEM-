@@ -39,6 +39,8 @@ This will be used to ingest and store windows event logs from the virtual machin
 <br />
 Go to winddows defender for cloud to enable gathering logs for the VM to the Log Analytics Workspace:  <br/>
 <a href="https://imgur.com/rEuRSA7"><img src="https://i.imgur.com/rEuRSA7.png" title="Windows Defender For Cloud" /></a>
+ Click on environment settings, click your azure subscription, and click on log analytics <br/>
+ <a href="https://imgur.com/r166DmE"><img src="https://i.imgur.com/r166DmE.png" title="source: imgur.com" /></a>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
