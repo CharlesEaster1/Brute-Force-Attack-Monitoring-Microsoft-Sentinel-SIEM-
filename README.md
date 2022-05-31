@@ -79,7 +79,7 @@ Click connect > RDP to get the RDP session (this is for Mac users.<br /> Windows
 Enter the ip address of the VM you desire to access via RDP > Download RPD File
 <a href="https://imgur.com/pqAfjQR"><img src="https://i.imgur.com/pqAfjQR.png" title="RDP Information" /></a>
 <p align="center">
-Double click RDP file
+Double click RDP file<br />
 <a href="https://imgur.com/k08WJ4G"><img src="https://i.imgur.com/k08WJ4G.png" title="RDP" /></a> 
 
  
