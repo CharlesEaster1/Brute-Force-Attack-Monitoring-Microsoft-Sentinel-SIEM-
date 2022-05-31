@@ -66,6 +66,13 @@ Click create Microsoft Sentinel
 <a href="https://imgur.com/oW8iNwV"><img src="https://i.imgur.com/oW8iNwV.png" title="Create Microsoft Sentinel" /></a>
 Choose workspace you want to add Azure Sentinel to > Click add
 <a href="https://imgur.com/Jo7HLOu"><img src="https://i.imgur.com/Jo7HLOu.png" title="Add Sentinel To Workspace" /></a>
+ <br />
+ <br />
+<h2>Connect To VM Using RDP</h2>
+ <br />
+ <br />
+ Go back over to the VM you created and get the public IP adddress associated with the vm:
+<<a href="https://imgur.com/DmcbKJr"><img src="https://i.imgur.com/DmcbKJr.png"VM ip address " /></a>
 <!--
  ```diff
 - text in red
