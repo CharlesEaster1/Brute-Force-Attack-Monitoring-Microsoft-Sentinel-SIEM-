@@ -71,7 +71,7 @@ Choose workspace you want to add Azure Sentinel to > Click add
 <h2>Connect To VM Using RDP</h2>
 <br />
 <p align="center">
-Download Microsoft Remote Desktop (Mac users) 
+Download Microsoft Remote Desktop from the app store (Mac users)<br /> 
 Go back over to the VM you created and get the public IP adddress associated with the vm:
 <a href="https://imgur.com/DmcbKJr"><img src="https://i.imgur.com/DmcbKJr.png"VM ip address " /></a>
 Click connect > RDP to get the RDP session (this is for Mac users.<br /> Windows users click start and type RDP.:<br/> 
