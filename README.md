@@ -59,6 +59,7 @@ Connect:  <br/>
 </p>
 
 <h2>Set Up Azure Sentinel (SIEM)</h2>
+<p align="center">
 Open Azure Portan in a 2nd tab portal.aszure.com 
 Search for Azure Sentinel
 Click create Microsoft Sentinel
