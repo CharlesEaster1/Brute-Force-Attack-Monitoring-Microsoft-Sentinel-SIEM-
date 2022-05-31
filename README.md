@@ -37,8 +37,8 @@ This will be used to ingest and store windows event logs from the virtual machin
 <a href="https://imgur.com/XikgzJB"><img src="https://i.imgur.com/XikgzJB.png" title="Deployment Completed" /></a>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Go to winddows defender for cloud to enable gathering logs for the VM to the Log Analytics Workspace:  <br/>
+<a href="https://imgur.com/rEuRSA7"><img src="https://i.imgur.com/rEuRSA7.png" title="Windows Defender For Cloud" /></a>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
