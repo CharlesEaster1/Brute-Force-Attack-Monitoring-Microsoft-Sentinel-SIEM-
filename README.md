@@ -58,6 +58,7 @@ Connect:  <br/>
 <a href="https://imgur.com/rbLzrm4"><img src="https://i.imgur.com/rbLzrm4.png" title="Connect VM" /></a>
 </p>
 
+<h2>Set Up Azure Sentinel (SIEM)>
 <!--
  ```diff
 - text in red
