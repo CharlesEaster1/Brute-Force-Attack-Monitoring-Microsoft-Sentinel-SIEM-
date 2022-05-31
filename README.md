@@ -64,7 +64,7 @@ Open Azure Portan in a 2nd browser tab at portal.aszure.com
 Search for Azure Sentinel
 Click create Microsoft Sentinel
 <a href="https://imgur.com/oW8iNwV"><img src="https://i.imgur.com/oW8iNwV.png" title="Create Microsoft Sentinel" /></a>
-Choose workspace you want to add Azure Sentinel to 
+Choose workspace you want to add Azure Sentinel to > Click add
 <a href="https://imgur.com/Jo7HLOu"><img src="https://i.imgur.com/Jo7HLOu.png" title="Add Sentinel To Workspace" /></a>
 <!--
  ```diff
