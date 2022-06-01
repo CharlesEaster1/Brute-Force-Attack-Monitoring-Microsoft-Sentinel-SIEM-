@@ -85,7 +85,7 @@ Double click RDP file<br />
 Enter user credentials (Usernam and password you chose when you created the VM)
 <a href="https://imgur.com/0vDRpv4"><img src="https://i.imgur.com/0vDRpv4.png" title="Creds" /></a>
 <br />
-h2>Get Powershell Script</h2>
+<h2>Get Powershell Script</h2>
 <br /> Powershell script is in the files section for download, or you can go to and manually copy the script and save the file. 
  <!--
  ```diff
