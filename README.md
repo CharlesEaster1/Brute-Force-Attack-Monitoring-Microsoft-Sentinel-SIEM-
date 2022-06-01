@@ -81,6 +81,8 @@ Enter the ip address of the VM you desire to access via RDP > Download RPD File
 <p align="center">
 Double click RDP file<br />
 <a href="https://imgur.com/k08WJ4G"><img src="https://i.imgur.com/k08WJ4G.png" title="RDP" /></a> 
+Enter user credentials (Usernam and password you chose when you created the VM)
+ <a href="https://imgur.com/0vDRpv4"><img src="https://i.imgur.com/0vDRpv4.png" title="Creds" /></a>
 
  
  <!--
