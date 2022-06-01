@@ -87,7 +87,8 @@ Enter user credentials (Usernam and password you chose when you created the VM)
 <br />
 <h2>Get Powershell Script</h2>
 <br /> Powershell script is in the files section for download, or you can click on it and manually copy the script. Remember to save the file. 
-<br> Open powershell ISE (on the vm) and paste the script > Click File > New > Save As *file name* *Next, get your own API code and change it in the powershell script.
+<br> Open powershell ISE (on the vm) and paste the script > Click File > New > Save As *file name* *Next, get your own API code and change it in the powershell script.<br />
+ <h2>Get API Code For Geolocation</h2>
  <!--
  ```diff
 - text in red
