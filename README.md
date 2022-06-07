@@ -119,7 +119,7 @@ Go to ipgeolocation.io > Click get free API Access. This will take you to an acc
 <a href="https://imgur.com/GyxGUKe"><img src="https://i.imgur.com/GyxGUKe.png" title="Azure Sentinel Dashboard" /></a>
 <br>Click workbook > Add new workbook > Edit > Remove all widgets that are there >Add a query > Change visualization to "Map"<br>
 <a href="https://imgur.com/H6RHF2G"><img src="https://i.imgur.com/H6RHF2G.png" title="Query For Workbook" /></a>
-<br>Map Visualization of failed login attempts (brute force attack). Over 3,000 attacks are shown in this map by country<br>
+<br>Map Visualization of failed login attempts (brute force attack). Over 3,000 attacks are shown in this map by country and ip address:<br>
 <a href="https://imgur.com/PL08KXf"><img src="https://i.imgur.com/PL08KXf.png" title="Map Showing Attacks" /></a>
 <!--
  ```diff
