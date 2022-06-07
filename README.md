@@ -105,7 +105,7 @@ Go to ipgeolocation.io > Click get free API Access. This will take you to an acc
 <a href="https://imgur.com/qKjixNW"><img src="https://i.imgur.com/qKjixNW.png" title="Path For Custom Log" /></a>
 <br>Raw data for logs collected.
 <a href="https://imgur.com/rGXrwQJ"><img src="https://i.imgur.com/rGXrwQJ.png" title="Raw data Logs" /></a>
-<br>Extract Raw data fields by expanding a data filed and click 
+<br>Extract Raw data fields by expanding a data filed and click extract fields from...
 <a href="https://imgur.com/KA90BIW"><img src="https://i.imgur.com/KA90BIW.png" title="Extract Raw Data" /></a>
  
 <!--
