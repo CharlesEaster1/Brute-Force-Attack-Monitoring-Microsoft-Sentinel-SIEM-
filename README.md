@@ -115,7 +115,7 @@ Go to ipgeolocation.io > Click get free API Access. This will take you to an acc
  <br>
  <h2>Azure Sentinel Workbook</h2>
  <br><p align="center">
- <br>Azure Sentinel dashboard diskplaying all attack data. 
+ <br>Azure Sentinel dashboard diskplaying all data. 
 <a href="https://imgur.com/GyxGUKe"><img src="https://i.imgur.com/GyxGUKe.png" title="Azure Sentinel Dashboard" /></a>
 <!--
  ```diff
