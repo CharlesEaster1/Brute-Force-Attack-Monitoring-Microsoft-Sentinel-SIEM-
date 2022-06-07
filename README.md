@@ -91,6 +91,7 @@ Enter user credentials (Usernam and password you chose when you created the VM)
 <br> Open powershell ISE (on the vm) and paste the script > Click File > New > Save As *file name* *Next, get your own API code and change it in the powershell script.<br />
 <h2>Get API Code For Geolocation</h2>
 Go to ipgeolocation.io > Click get free API Access. This will take you to an account set up screen
+<a href="https://imgur.com/wNY87FG"><img src="https://i.imgur.com/wNY87FG.png" title="Site For Geolocation API" /></a>
 <!--
  ```diff
 - text in red
