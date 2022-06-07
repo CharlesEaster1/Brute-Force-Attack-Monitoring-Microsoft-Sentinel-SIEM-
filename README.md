@@ -94,13 +94,15 @@ Enter user credentials (Usernam and password you chose when you created the VM)
 Go to ipgeolocation.io > Click get free API Access. This will take you to an account set up screen
 <a href="https://imgur.com/wNY87FG"><img src="https://i.imgur.com/wNY87FG.png" title="Site For Geolocation API" /></a>
 <br>After you have set up your free account, copy your API code and paste it into the powershell script. $API_KEY ="put you key here" and save the file.
- <br>
- <h2>Create Custom Log File For Geolocation Data</h2>
- <p align="center">
- <br>Minimize VM and go back to Azure on your device. Search for log analytics > Click of the workspace that is already set up > Go to custom logs > Add custom log.
- <a href="https://imgur.com/ptDRZ5F"><img src="https://i.imgur.com/ptDRZ5F.png" title="Custom Logs" /></a>
- <br>Go back to the VM > Open the log file > Copy log file data and paste it into notepad on your host machine, NOT THE VM > Save file as failed_rdp.log. This data will be used to teach log analytics what to look for. ** Log file can be found at C:\ProgramData. **
- <a href="https://imgur.com/XNF7Q1B"><img src="https://i.imgur.com/XNF7Q1B.png" title="failed RDP Logs" /></a>
+<br>
+<h2>Create Custom Log File For Geolocation Data</h2>
+<p align="center">
+<br>Minimize VM and go back to Azure on your device. Search for log analytics > Click of the workspace that is already set up > Go to custom logs > Add custom log.
+<a href="https://imgur.com/ptDRZ5F"><img src="https://i.imgur.com/ptDRZ5F.png" title="Custom Logs" /></a>
+<br>Go back to the VM > Open the log file > Copy log file data and paste it into notepad on your host machine, NOT THE VM > Save file as failed_rdp.log. This data will be used to teach log analytics what to look for. ** Log file can be found at C:\ProgramData. **
+<a href="https://imgur.com/XNF7Q1B"><img src="https://i.imgur.com/XNF7Q1B.png" title="failed RDP Logs" /></a>
+<br>Add the path to the custom log file you just saved on your host machine.
+<a href="https://imgur.com/qKjixNW"><img src="https://i.imgur.com/qKjixNW.png" title="Path For Custom Log" /></a>
  
 <!--
  ```diff
