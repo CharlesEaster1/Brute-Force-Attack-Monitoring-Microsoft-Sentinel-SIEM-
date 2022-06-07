@@ -103,6 +103,8 @@ Go to ipgeolocation.io > Click get free API Access. This will take you to an acc
 <a href="https://imgur.com/XNF7Q1B"><img src="https://i.imgur.com/XNF7Q1B.png" title="failed RDP Logs" /></a>
 <br>Add the path to the custom log file you just saved on your host machine.
 <a href="https://imgur.com/qKjixNW"><img src="https://i.imgur.com/qKjixNW.png" title="Path For Custom Log" /></a>
+<br>Raw data for logs collected.
+<a href="https://imgur.com/rGXrwQJ"><img src="https://i.imgur.com/rGXrwQJ.png" title="Raw data Logs" /></a>
  
 <!--
  ```diff
