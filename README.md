@@ -111,6 +111,12 @@ Go to ipgeolocation.io > Click get free API Access. This will take you to an acc
 <a href="https://imgur.com/ngoPKTy"><img src="https://i.imgur.com/ngoPKTy.png" title="Extract Data" /></a>
 <br>Logs with headings for the extracted data.
 <a href="https://imgur.com/c8uWELa"><img src="https://i.imgur.com/c8uWELa.png" title="Logs With Extracted Data" /></a>
+ <br>
+ <br>
+ <h2>Azure Sentinel Workbook</h2>
+ <br>
+ <br>Azure Sentinel dashboard
+<a href="https://imgur.com/GyxGUKe"><img src="https://i.imgur.com/GyxGUKe.png" title="Azure Sentinel Dashboard" /></a>
 <!--
  ```diff
 - text in red
