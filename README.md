@@ -40,8 +40,8 @@ This will be used to ingest and store windows event logs from the virtual machin
 <br />
 Go to winddows defender for cloud to enable gathering logs for the VM to the Log Analytics Workspace:  <br/>
 <a href="https://imgur.com/rEuRSA7"><img src="https://i.imgur.com/rEuRSA7.png" title="Windows Defender For Cloud" /></a>
- Click on environment settings, click your azure subscription, and click on log analytics: <br/>
- <a href="https://imgur.com/r166DmE"><img src="https://i.imgur.com/r166DmE.png" title="source: imgur.com" /></a>
+Click on environment settings, click your azure subscription, and click on log analytics: <br/>
+<a href="https://imgur.com/r166DmE"><img src="https://i.imgur.com/r166DmE.png" title="source: imgur.com" /></a>
 <br />
 <br />
 Turn servers on. Turn SQL servers on machines off:  <br/>
@@ -90,7 +90,7 @@ Enter user credentials (Usernam and password you chose when you created the VM)
 <br /> Powershell script is in the files section for download, or you can click on it and manually copy the script. Remember to save the file. 
 <br> Open powershell ISE (on the vm) and paste the script > Click File > New > Save As *file name* *Next, get your own API code and change it in the powershell script.<br />
  <h2>Get API Code For Geolocation</h2>
- <br /> Go to geolocation.io > Set up an account if you don't have one already > 
+ <br /> Go to ipgeolocation.io > Set up an account if you don't have one already > 
  <!--
  ```diff
 - text in red
