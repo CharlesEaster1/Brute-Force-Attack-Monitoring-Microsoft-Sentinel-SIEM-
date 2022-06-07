@@ -82,16 +82,16 @@ Enter the ip address of the VM you desire to access via RDP > Download RPD File
 <p align="center">
 Double click RDP file<br />
 <a href="https://imgur.com/k08WJ4G"><img src="https://i.imgur.com/k08WJ4G.png" title="RDP" /></a> 
-<br /> <br /> 
+<br> <br> 
 Enter user credentials (Usernam and password you chose when you created the VM)
 <a href="https://imgur.com/0vDRpv4"><img src="https://i.imgur.com/0vDRpv4.png" title="Creds" /></a>
-<br />
+<br>
 <h2>Get Powershell Script</h2>
-<br /> Powershell script is in the files section for download, or you can click on it and manually copy the script. Remember to save the file. 
+<br> Powershell script is in the files section for download, or you can click on it and manually copy the script. Remember to save the file. 
 <br> Open powershell ISE (on the vm) and paste the script > Click File > New > Save As *file name* *Next, get your own API code and change it in the powershell script.<br />
- <h2>Get API Code For Geolocation</h2>
- <br /> Go to ipgeolocation.io > Set up an account if you don't have one already > 
- <!--
+<h2>Get API Code For Geolocation</h2>
+Go to ipgeolocation.io > Click get free API Access. This will take you to an account set up screen
+<!--
  ```diff
 - text in red
 + text in green
