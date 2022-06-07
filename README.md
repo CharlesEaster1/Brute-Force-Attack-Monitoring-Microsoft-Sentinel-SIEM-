@@ -93,6 +93,7 @@ Enter user credentials (Usernam and password you chose when you created the VM)
 <p align="center"> 
 Go to ipgeolocation.io > Click get free API Access. This will take you to an account set up screen
 <a href="https://imgur.com/wNY87FG"><img src="https://i.imgur.com/wNY87FG.png" title="Site For Geolocation API" /></a>
+<br>After you have set up your free account, copy your API code and paste it into the powershell script. $API_KEY ="put you key here" and save the file.
 <!--
  ```diff
 - text in red
