@@ -117,7 +117,7 @@ Go to ipgeolocation.io > Click get free API Access. This will take you to an acc
  <br><p align="center">
  <br>Azure Sentinel dashboard diskplaying all data. 
 <a href="https://imgur.com/GyxGUKe"><img src="https://i.imgur.com/GyxGUKe.png" title="Azure Sentinel Dashboard" /></a>
-<br>Click workbook > Add new workbook > Edit > Remove all widgets that are there >Add a query<br>
+<br>Click workbook > Add new workbook > Edit > Remove all widgets that are there >Add a query > Change visualization to "Map"<br>
 <a href="https://imgur.com/H6RHF2G"><img src="https://i.imgur.com/H6RHF2G.png" title="Query For Workbook" /></a>
 <!--
  ```diff
