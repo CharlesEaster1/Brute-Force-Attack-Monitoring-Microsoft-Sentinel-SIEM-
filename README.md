@@ -99,6 +99,9 @@ Go to ipgeolocation.io > Click get free API Access. This will take you to an acc
  <p align="center">
  <br>Minimize VM and go back to Azure on your device. Search for log analytics > Click of the workspace that is already set up > Go to custom logs > Add custom log.
  <a href="https://imgur.com/ptDRZ5F"><img src="https://i.imgur.com/ptDRZ5F.png" title="Custom Logs" /></a>
+ <br>Go back to the VM > Open the log file > Copy log file data and paste it into notepad > Save file as failed_rdp.log. This data will be used to teach log analytics what to look for.
+ <a href="https://imgur.com/XNF7Q1B"><img src="https://i.imgur.com/XNF7Q1B.png" title="failed RDP Logs" /></a>
+ 
 <!--
  ```diff
 - text in red
