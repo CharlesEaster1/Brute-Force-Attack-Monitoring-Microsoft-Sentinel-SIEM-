@@ -113,7 +113,7 @@ Go to ipgeolocation.io > Click get free API Access. This will take you to an acc
 <a href="https://imgur.com/c8uWELa"><img src="https://i.imgur.com/c8uWELa.png" title="Logs With Extracted Data" /></a>
  <br>
  <br>
- <h2>Azure Sentinel Workbook</h2>
+ <h2>Azure Sentinel Workbook (Map)</h2>
  <br><p align="center">
  <br>Azure Sentinel dashboard diskplaying all data. 
 <a href="https://imgur.com/GyxGUKe"><img src="https://i.imgur.com/GyxGUKe.png" title="Azure Sentinel Dashboard" /></a>
