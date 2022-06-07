@@ -12,6 +12,7 @@ This walkthrough shows the process of creating a virtual machine (VM), monitorin
 - <b>Log Analytics Workspace</b>
 - <b>Microsoft Defender for Cloud</b>
 - <b>Azure Sentinel (Siem)</b>
+- <b>PowerShell</b>
 
 <h2>Environments Used </h2>
 
