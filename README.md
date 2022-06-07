@@ -107,7 +107,8 @@ Go to ipgeolocation.io > Click get free API Access. This will take you to an acc
 <a href="https://imgur.com/rGXrwQJ"><img src="https://i.imgur.com/rGXrwQJ.png" title="Raw data Logs" /></a>
 <br>Extract Raw data fields by expanding a data filed and click extract fields from...
 <a href="https://imgur.com/KA90BIW"><img src="https://i.imgur.com/KA90BIW.png" title="Extract Raw Data" /></a>
- 
+<br>Highlight desired data. For example, if you want latitude, highlight that data and extract. **This needs to be repeated for every piece of daata you want ta extract from the raw data.
+<a href="https://imgur.com/ngoPKTy"><img src="https://i.imgur.com/ngoPKTy.png" title="Extract Data" /></a>
 <!--
  ```diff
 - text in red
