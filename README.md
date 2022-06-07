@@ -109,6 +109,8 @@ Go to ipgeolocation.io > Click get free API Access. This will take you to an acc
 <a href="https://imgur.com/KA90BIW"><img src="https://i.imgur.com/KA90BIW.png" title="Extract Raw Data" /></a>
 <br>Highlight desired data. For example, if you want latitude, highlight that data and save extraction. **This needs to be repeated for every piece of daata you want ta extract from the raw data.
 <a href="https://imgur.com/ngoPKTy"><img src="https://i.imgur.com/ngoPKTy.png" title="Extract Data" /></a>
+<br>Logs with headings for the extracted data.
+<a href="https://imgur.com/c8uWELa"><img src="https://i.imgur.com/c8uWELa.png" title="Logs With Extracted Data" /></a>
 <!--
  ```diff
 - text in red
