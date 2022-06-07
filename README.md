@@ -96,6 +96,7 @@ Go to ipgeolocation.io > Click get free API Access. This will take you to an acc
 <br>After you have set up your free account, copy your API code and paste it into the powershell script. $API_KEY ="put you key here" and save the file.
  <br>
  <h2>Create Custom Log File For Geolocation Data</h2>
+ <br>Minimize VM and go back to Azure on your device. Search for log analytics > Click of the workspace that is already set up
 <!--
  ```diff
 - text in red
